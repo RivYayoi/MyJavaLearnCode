@@ -1,6 +1,6 @@
 package com.Mycode;
 
-public class kbcs5 {
+public class MaxValueFinder {
     public static void main(String[] args) {
         //调用方法
         Valuemax(1,2,31,4,5);

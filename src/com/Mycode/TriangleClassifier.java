@@ -1,6 +1,6 @@
 package com.Mycode;
 
-public class PrintDealt3 {
+public class TriangleClassifier {
     public static void main(String[] args) {
 
         for (int i = 0; i < 5; i++) {
